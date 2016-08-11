@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DBA_Project.Properties
+namespace proyecto.Properties
 {
 
 
